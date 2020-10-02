@@ -234,3 +234,5 @@ fi
 echo ""
 echo "== Setup complete! =="
 echo "Continue to the next step in SETUP.txt"
+
+exit 0
